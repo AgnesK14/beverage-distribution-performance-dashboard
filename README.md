@@ -29,9 +29,7 @@
 ├── assets/
 │   ├── dashboard-overview.png
 │   └── channel-deep-dive.png
-│
-└── dashboard/
-    └── looker_studio_link.txt
+
 ```
 
 ---
@@ -301,7 +299,7 @@ Menampilkan:
 
 ---
 
-> 🔗 **https://datastudio.google.com/reporting/a228e131-6599-431b-ab03-ae5e3dcd29b7(#)**  
+> 🔗 **https://datastudio.google.com/reporting/a228e131-6599-431b-ab03-ae5e3dcd29b7**  
 
 ---
 
